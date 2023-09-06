@@ -18,6 +18,9 @@ public class AtmProject {
         System.out.println();
         //kml3
 
+        System.out.println("lokalde değişiklik yaptım");
+        //lokalde değişiklik yaptım
+
 
     }
 }

@@ -20,7 +20,7 @@ public class AtmProject {
 
         System.out.println("lokalde değişiklik yaptım");
         //lokalde değişiklik yaptım
-
+        //remotte değişklik yaptım
 
     }
 }
